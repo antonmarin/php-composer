@@ -1,6 +1,6 @@
 # Composer
 
-You know what is composer )) Visit http://getcomposer.org if you don't.
+You know what is composer )) Visit https://getcomposer.org if you don't.
 
 Clean php images with composer included. 
 
