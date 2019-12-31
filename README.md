@@ -1,3 +1,5 @@
+### Abandoned! Prefer using https://github.com/antonmarin/php
+
 # Composer
 
 You know what is composer )) Visit https://getcomposer.org if you don't.
